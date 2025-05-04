@@ -10,7 +10,7 @@ Ce projet Power BI vise à analyser le phénomène de **turnover** (départs vol
 
 ## 📊 Aperçu
 
-![Dashboard Preview](images/preview.png)
+![Dashboard Preview](/preview.png)
 
 ## 📁 Contenu
 
